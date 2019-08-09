@@ -1,0 +1,105 @@
+#logo{
+    background: initial;
+    text-align: initial;
+    width: initial;
+    padding: 15px 25px 10px 20px !important;
+    border: none!important;
+}
+
+a.navbar-brand{
+    width: initial;
+    background: initial;
+}
+.navbar-header{
+    width: initial;
+}
+
+.navbar-nav > li{
+    background: white;
+}
+
+.navbar-nav > li:first-child {
+    padding-left: 10px;
+    border-left : 1px solid #e8e8e8;
+}
+
+
+
+#li_1{
+    border-left : 1px solid #e8e8e8;
+}
+
+
+.navbar-nav > li > a {
+    padding: 28px 15px;
+  
+}
+
+.navbar-default .navbar-nav > li > a {
+    padding: 25px 15px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+div.revolution-starhotel span{
+    font-size: 40px;
+    letter-spacing: -2px;
+    margin: 0;
+    padding-left: initial;
+}
+
+@media screen and (max-width: 1275px)and (min-width: 768px) {
+    a.navbar-brand{
+        width: 100%;
+    }
+    .navbar-header{
+        width: 100%;
+    }
+    #logo{
+        text-align: center;
+        width: 100%;
+        height: 100%!important;
+        border: none!important;
+    }
+
+    #li_1{
+        border-left : none!important;
+    }
+
+    div.revolution-starhotel span{
+        font-size: 28px;
+        letter-spacing: -2px !important;
+        margin: 0;
+        padding-left:50px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    a.navbar-brand{
+        width: 50%;
+    }
+    .navbar-header{
+        width: 100%;
+    }
+    #logo{
+        text-align: left;
+        width: 100%;
+    }
+
+
+}
+
+@media (max-width: 767px){
+    .navbar-default .navbar-nav > li > a {
+        padding: 10px 15px 10px 15px;
+    }
+
+    div.revolution-starhotel span{
+        font-size: 16px;
+        letter-spacing: -1px !important;
+        margin: 0;
+        padding-left:30px;
+    }
+}
