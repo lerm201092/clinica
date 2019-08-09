@@ -88,9 +88,9 @@
     <div class="container" style="width:100%; height: 64px!important;">
       <div class="navbar-header">
         <button onclick="preguntarmenu($(this))"; type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-        <a href="./index.php" class="navbar-brand" ">         
+        <a href="./index.php" class="navbar-brand" id="a_logo">         
         <!-- Logo -->
-        <div id="logo" class="col-md-12"> <p><img id="default-logo" src="./src/images/logo.png" alt="Sinais" style="height:35px; width: auto; padding-bottom:7px;margin-top:3px;"> <img id="retina-logo" src="./src/images/logo.png" alt="Sinais" style="height:25px; width: auto;"> </p></div>
+        <div id="logo" class="col-md-12"> <p><img id="default-logo" src="./src/images/logo.png" alt="Sinais" style="height:45px; width: auto; padding-bottom:7px;margin-top:3px;"> <img id="retina-logo" src="./src/images/logo.png" alt="Sinais" style="height:35px; width: auto;"> </p></div>
         </a> </div>
       <div id="navbar-collapse-grid" class="navbar-collapse collapse">
         <ul id="menuMovil" class="nav navbar-nav">

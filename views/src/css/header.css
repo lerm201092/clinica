@@ -74,8 +74,12 @@ div.revolution-starhotel span{
     }
 }
 
-
-
+@media (min-width: 768px){
+.navbar-nav {
+    float: left;
+    margin-top: 10px;
+}
+}
 @media screen and (max-width: 768px) {
     a.navbar-brand{
         width: 50%;
@@ -91,9 +95,23 @@ div.revolution-starhotel span{
 
 }
 
+#a_logo{
+    padding-top : initial;
+    padding-bottom : initial;
+}
+
+#a_logo div p {
+    margin-bottom: 0px;
+}
+
 @media (max-width: 767px){
     .navbar-default .navbar-nav > li > a {
         padding: 10px 15px 10px 15px;
+    }
+
+    #a_logo{
+        padding-top : 0px;
+        padding-bottom : 0px;
     }
 
     div.revolution-starhotel span{
