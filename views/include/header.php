@@ -86,7 +86,7 @@
   <!-- Navigation -->
   <div class="navbar yamm navbar-default" id="sticky">
     <div class="container" style="width:100%; height: 64px!important;">
-      <div class="navbar-header">
+      <div class="navbar-header" id="sticky2" >
         <button onclick="preguntarmenu($(this))"; type="button" data-toggle="collapse" data-target="#navbar-collapse-grid" class="navbar-toggle"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
         <a href="./index.php" class="navbar-brand" id="a_logo">         
         <!-- Logo -->
