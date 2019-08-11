@@ -50,6 +50,14 @@ include './include/banner.php';
         margin-bottom: 30px;
         margin-top: 25px;
     }
+
+    .mas{
+        background: #45a496;
+    }
+
+    .mas a{
+        color:#ffffff;
+    }
 </style>
 
 <div class="container"><br>
@@ -60,19 +68,19 @@ include './include/banner.php';
             <img src="./src/images/blog/tomogramos.jpg" alt="">
             <h3 class="text-center">Tomografía Computarizada</h3>
             <p>Contamos con el sistema de tomografía computarizada Somatom Scope, de Siemens</p>
-            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+            <button class="btn mas"><a href="./apoyo.php">Ver más</a></button>
         </div>
         <div class="col-sm-12 col-md-4">
             <img src="./src/images/blog/rx.jpg" alt="">
             <h3 class="text-center">Rayos X</h3>
             <p>Nuestro  experimentado personal de radiólogos garantiza un buen diagnóstico y un tratamiento adecuado</p>
-            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+            <button class="btn mas"><a href="./apoyo.php">Ver más</a></button>
         </div>
         <div class="col-sm-12 col-md-4">
             <img src="./src/images/blog/ecografia.jpg" alt="">
             <h3 class="text-center">Ecografías</h3>
             <p>Ofrecemos a nuestros pacientes una (1) sala de ecografías, con equipos de última generación.</p>
-            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+            <button class="btn mas"><a href="./apoyo.php">Ver más</a></button>
         </div>
     </div>
 </div><br>
