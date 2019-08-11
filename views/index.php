@@ -52,6 +52,33 @@ include './include/banner.php';
     }
 </style>
 
+<div class="container"><br>
+
+<h2 class="text-center"><b>Diagnóstico por imágenes</b></h2><br>
+    <div class="row">
+        <div class="col-sm-12 col-md-4">
+            <img src="./src/images/blog/tomogramos.jpg" alt="">
+            <h3 class="text-center">Tomografía Computarizada</h3>
+            <p>Contamos con el sistema de tomografía computarizada Somatom Scope, de Siemens</p>
+            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <img src="./src/images/blog/rx.jpg" alt="">
+            <h3 class="text-center">Rayos X</h3>
+            <p>Nuestro  experimentado personal de radiólogos garantiza un buen diagnóstico y un tratamiento adecuado</p>
+            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+        </div>
+        <div class="col-sm-12 col-md-4">
+            <img src="./src/images/blog/ecografia.jpg" alt="">
+            <h3 class="text-center">Ecografías</h3>
+            <p>Ofrecemos a nuestros pacientes una (1) sala de ecografías, con equipos de última generación.</p>
+            <button class="btn"><a href="./apoyo.php">Ver más</a></button>
+        </div>
+    </div>
+</div><br>
+
+<div class="container"><hr></div>
+
 <!-- Primera Fila de Razones -->
 <div class="container">
     <div class="row">
@@ -134,7 +161,9 @@ include './include/banner.php';
             <p class="texto-home"><i>“Todo ha sido espectacular, mi parto fue bien atendido y mi bebé en perfectas condiciones. Todos se han portado bien, no tengo queja”.</i></p>
         </div>
     </div>
-</div> <br><br><br>
+</div> <br><br>
+
+<div class="container"><hr></div><br>
 
 <div class="container">
     <div class="row">
