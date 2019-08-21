@@ -36,6 +36,18 @@ include './include/header.php';?>
     <div class="col-md-4 col-sm-12 espacios text-justify">   
       <img src="./src/images/blog/hospitalizacion_2.jpg" alt="Hospitalización" class="img-fluid img-thumbnail">
     </div>
+  </div><br><br>
+
+  <div class="row"> 
+    <div class="col-md-4 col-sm-12 text-justify">   
+       <img src="./src/images/blog/hospitalizacion_3.jpg" alt="Hospitalización" class="img-fluid img-thumbnail">
+    </div>
+    <div class="col-md-4 col-sm-12 text-justify">   
+      <img src="./src/images/blog/hospitalizacion_4.jpg" alt="Hospitalización" class="img-fluid img-thumbnail">
+    </div>
+    <div class="col-md-4 col-sm-12 text-justify">   
+      <img src="./src/images/blog/hospitalizacion_5.jpg" alt="Hospitalización" class="img-fluid img-thumbnail">
+    </div>
   </div>
 </div>
 

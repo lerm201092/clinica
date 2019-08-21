@@ -49,6 +49,9 @@ include './include/header.php';?>
         <div class="col-md-4 col-sm-12 espacios text-justify">   
             <img src="./src/images/blog/eps_6.jpg" alt="Convenios" class="img-fluid img-thumbnail">
         </div>
+        <div class="col-md-4 col-sm-12 espacios text-justify">   
+            <img src="./src/images/blog/eps_7.jpg" alt="Convenios" class="img-fluid img-thumbnail">
+        </div>
     </div>
 </div>
 

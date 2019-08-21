@@ -36,6 +36,20 @@ include './include/header.php';?>
     <div class="col-md-4 col-sm-12 espacios text-justify">   
       <img src="./src/images/blog/urgencias_2.jpg" alt="Urgencias" class="img-fluid img-thumbnail">
     </div>
+  </div> <br><br>
+
+  <div class="row"> 
+    <div class="col-md-4 col-sm-12 text-justify">   
+      <img src="./src/images/blog/urgencias_3.jpg" alt="Urgencias" class="img-fluid img-thumbnail">
+    </div>
+
+    <div class="col-md-4 col-sm-12 text-justify">   
+        <img src="./src/images/blog/urgencias_4.jpg" alt="Urgencias" class="img-fluid img-thumbnail">
+    </div>
+
+    <div class="col-md-4 col-sm-12 text-justify">   
+      <img src="./src/images/blog/urgencias_5.jpg" alt="Urgencias" class="img-fluid img-thumbnail">
+    </div>
   </div>
 </div>
 

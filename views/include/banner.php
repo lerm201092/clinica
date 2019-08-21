@@ -243,6 +243,42 @@
 					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
                   </div>
         </li>
+
+        <li data-transition="fade" data-slotamount="7" data-masterspeed="1500" > 
+          <!-- Main Image --> 
+          <img src="./src/images/slides/banner_8.jpg" style="opacity:0;" alt="slidebg1"  data-bgfit="cover" data-bgposition="left bottom" data-bgrepeat="no-repeat"> 
+          <!-- Layers -->           
+          <!-- Layer 1 -->
+          <div class="caption sft revolution-starhotel bigtext"  
+                  data-x="-20" 
+                        data-y="70" 
+                        data-speed="700" 
+                        data-start="1700" 
+                        data-easing="easeOutBack">  
+						<span>Equipo administrativo    </span> <br/>
+            <span>y asistencial</span> <br/>
+            <span>comprometidos</span><br/>
+            <span>con la seguridad</span><br/>
+            <span>y calidad</span>
+            </div>
+          <!-- Layer 2 -->
+          <div class="caption sft revolution-starhotel smalltext"  
+          				data-x="605" 
+                        data-y="105" 
+                        data-speed="800" 
+                        data-start="1700" 
+                        data-easing="easeOutBack">
+						<span></span></div>
+        <!-- Layer 3 -->
+                  <div class="caption sft"  
+          				data-x="775" 
+                        data-y="175" 
+                        data-speed="1000" 
+                        data-start="1900" 
+                        data-easing="easeOutBack">
+					<!--	<a href="room-list.html" class="button btn btn-purple btn-lg">See rooms</a> -->
+                  </div>
+        </li>
       </ul>
     </div>
   </div>

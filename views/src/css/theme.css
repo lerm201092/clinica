@@ -2142,3 +2142,7 @@ border: 1px solid;
 .contact_i{
 	border: none;
 }
+
+.none_b{
+	border: none !important;
+}

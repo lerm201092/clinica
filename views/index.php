@@ -53,6 +53,7 @@ include './include/banner.php';
 
     .mas{
         background: #45a496;
+        margin: 10px 40%;
     }
 
     .mas a{
@@ -175,9 +176,26 @@ include './include/banner.php';
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-md-6 col-sm-12">
         <iframe class="col-md-12 video_h" src="https://www.youtube.com/embed/1Dj3Gp7qPt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <!-- <video src="https://www.youtube.com/watch?v=1Dj3Gp7qPt4" width="640" height="480" controls ></video> -->
+        </div>
+
+        <div class="col-md-6 col-sm-12">
+            <div class="row">
+                <div class="col-md-8 col-sm-12">
+                    <h3>Video Institucional</h3>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <img src="../views/src/images/logo.png" alt="Clinica" class="img-fluid img-thumbnail none_b">
+                </div> 
+            </div><br>
+            <div class="row">
+                <div class="col-md-12">
+                    <p class="text-justify">Este video muestra nuestras modernas instalaciones de 3 pisos con más de 8000 metros de construcción, están equipados con los más modernos equipos tecnológicos dispuestos para la atención de sus usuarios con más de 30 consultorios dotados con los últimos equipos para consulta en cada especialidad.  </p>
+                </div>
+            </div>
+            
         </div>
     </div>
 </div>

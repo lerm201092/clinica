@@ -36,39 +36,54 @@ include './include/header.php';?>
       <div class="col-md-4 col-sm-12 espacios text-justify">
           <img src="src/images/blog/requisitos_2.jpg" alt="Requisitos" class="img-fluid img-thumbnail">
       </div>
-  </div>
+  </div><br><br>
 
-  <div class="row"> 
-      <div class="col-md-12 col-sm-12 espacios text-justify">
-      <h3>Atención inicial de urgencias </h3>
-      <p>Documento de identidad actualizado, de acuerdo a la edad del paciente:</p>
-      <ul>
-          <li>0 a 7 años Registro civil de nacimiento</li>
-          <li>7 a 18 años Tarjeta de identidad</li>
-          <li>18 años en adelante, cédula de ciudadanía</li>
-      </ul>
+    <div class="row"> 
+      <div class="col-md-4 col-sm-12 text-justify">
+        <h3>Atención inicial de urgencias </h3>
+        <p>Documento de identidad actualizado, de acuerdo a la edad del paciente:</p>
+        <ul>
+            <li>0 a 7 años Registro civil de nacimiento</li>
+            <li>7 a 18 años Tarjeta de identidad</li>
+            <li>18 años en adelante, cédula de ciudadanía</li>
+        </ul>
 
-      <p>Para la atención de ciudadanos extranjeros el paciente deberá presentar el documento de identidad expedido en su país de origen o los documentos que acrediten sur acceso al SGSSS.</p>
+        <p>Para la atención de ciudadanos extranjeros el paciente deberá presentar el documento de identidad expedido en su país de origen o los documentos que acrediten sur acceso al SGSSS.</p>
+      </div>
 
-      <h3>Citas médicas por consulta externa</h3>
-      <ul>
-          <li>Documento de identidad. </li>
-          <li>Autorización(es) o pre autorización(es) vigente(s) emitida(s) por su EPS.</li>
-          <li>Orden médica de atención (No mayor a un mes de expedición).</li>
-          <li>Cancelación del bono de atención.</li>
-      </ul>
+      <div class="col-md-4 col-sm-12 text-justify">
+          <img src="src/images/blog/requisitos_3.jpg" alt="Requisitos" class="img-fluid img-thumbnail">
+      </div>
+      <div class="col-md-4 col-sm-12 text-justify">
+          <img src="src/images/blog/requisitos_4.jpg" alt="Requisitos" class="img-fluid img-thumbnail">
+      </div>
+    </div>
 
-      <h3>Cirugía</h3>
-      <ul>
-          <li>Documento de identidad. </li>
-          <li>Historia clínica del consultorio</li>
-          <li>Orden médica del procedimiento solicitado.</li>
-          <li>Autorización de procedimiento a realizar.</li>
-          <li>Autorización del material quirúrgico y su respectiva orden médica</li>
-      </ul>
-  </div>
+    <div class="row">
+      <div class="col-md-12 espacios text-justify">
+        <h3>Citas médicas por consulta externa</h3>
+        <ul>
+            <li>Documento de identidad. </li>
+            <li>Autorización(es) o pre autorización(es) vigente(s) emitida(s) por su EPS.</li>
+            <li>Orden médica de atención (No mayor a un mes de expedición).</li>
+            <li>Cancelación del bono de atención.</li>
+        </ul>
+
+        <h3>Cirugía</h3>
+        <ul>
+            <li>Documento de identidad. </li>
+            <li>Historia clínica del consultorio</li>
+            <li>Orden médica del procedimiento solicitado.</li>
+            <li>Autorización de procedimiento a realizar.</li>
+            <li>Autorización del material quirúrgico y su respectiva orden médica</li>
+        </ul>
+      </div>
+    </div>
+
 </div>
-</div>
+
+
+
 
 <?php
 include './include/footer.php';
