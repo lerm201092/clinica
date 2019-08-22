@@ -14,9 +14,9 @@ include './include/header.php';?>
             <ol class="breadcrumb">
               <li><a href="./index.html">Home</a></li>
               <li><a href="servicios.php">Servicios</a></li>
-              <li class="active">Cirugia</li>
+              <li class="active">Cirugía</li>
             </ol>
-            <h1>Cirugia</h1>
+            <h1>Cirugía</h1>
           </div>
         </div>
       </div>

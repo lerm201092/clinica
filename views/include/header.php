@@ -100,7 +100,7 @@
             <ul class="dropdown-menu">
               <li><a href="./servicios.php">Urgencias</a></li>
               <li><a href="./hospitalizacion.php">Hospitalización</a></li>
-              <li><a href="./cirugia.php">Cirugia</a></li>
+              <li><a href="./cirugia.php">Cirugía</a></li>
               <li><a href="./uci.php">UCIs</a></li>
               <li><a href="./apoyo.php">Apoyo diagnóstico y terapéutico</a></li>
               <li><a href="./translado.php">Traslado ambulancia</a></li>
@@ -110,8 +110,8 @@
           <li class="dropdown"> <a href="./src/#" data-toggle="dropdown" class="dropdown-toggle js-activated"><i class="fa fa-star-o "></i> Especialidades<b class="caret"></b></a>
             <ul class="dropdown-menu">
               <li><a href="./anestecia.php">Anestesiología</a></li>
-              <li><a href="./cirugias.php">Cirugias</a></li>
-              <li><a href="./ginecologia.php">Ginecologia</a></li>
+              <li><a href="./cirugias.php">Cirugías</a></li>
+              <li><a href="./ginecologia.php">Ginecología</a></li>
               <li><a href="./ortopedia.php">Ortopedia</a></li>
               <li><a href="./pidiatra.php">Pediatria</a></li>
               <li><a href="./intensiva.php">Intensivista</a></li>

@@ -14,9 +14,9 @@ include './include/header.php';?>
             <ol class="breadcrumb">
               <li><a href="./index.html">Home</a></li>
               <li><a href="anestecia.php">Especialidades</a></li>
-              <li class="active">Ortopedia y traumatologia</li>
+              <li class="active">Ortopedia y traumatología</li>
             </ol>
-            <h1>Ortopedia y traumatologia</h1>
+            <h1>Ortopedia y traumatología</h1>
           </div>
         </div>
       </div>

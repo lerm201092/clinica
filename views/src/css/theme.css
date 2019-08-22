@@ -2134,6 +2134,11 @@ border: 1px solid;
 .social-i{
 	font-size: 28px;
 }
+
+.social-t{
+	color: #ffffff;
+	font-size: 16px;
+}
 .color_b
 {
 	color: #ffffff !important;
@@ -2145,4 +2150,10 @@ border: 1px solid;
 
 .none_b{
 	border: none !important;
+}
+
+.banner_f{
+	margin: 50px 0 0 0;
+	padding: 0;
+	width: 100%;
 }

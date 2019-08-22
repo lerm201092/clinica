@@ -46,9 +46,7 @@ include './include/header.php';?>
         </div>
         <div class="col-md-4 col-sm-12 text-justify">
             <h3>Dirección médica</h3>
-            <p>Esta área es la encargada de planear, controlar, evaluar y ejecutar labores de dirección y control del área de atención a las personas en una Institución hospitalaria que permita el desarrollo coordinado de los programas y metas previamente establecidos y el avance científico de la institución. </p>
-
-            <p>Por otro lado, es el área responsable de la verificación del cumplimiento de los requisitos establecidos en la normatividad vigente y de los compromisos adquiridos en los acuerdos o convenios con las diferentes aseguradoras.</p>
+            <p>Esta área es la encargada de planear, controlar, evaluar y ejecutar labores de dirección y control del área de atención a los pacientes y además permite el desarrollo coordinado de los programas y metas previamente establecidos y el avance científico de la institución.</p>
         </div>
     </div><br><br>
 

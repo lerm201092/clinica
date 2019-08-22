@@ -14,9 +14,9 @@ include './include/header.php';?>
             <ol class="breadcrumb">
               <li><a href="./index.html">Home</a></li>
               <li><a href="anestecia.php">Especialidades</a></li>
-              <li class="active">Ginecologia  y obstetricia</li>
+              <li class="active">Ginecología  y obstetricia</li>
             </ol>
-            <h1>Ginecologia  y obstetricia</h1>
+            <h1>Ginecología  y obstetricia</h1>
           </div>
         </div>
       </div>
