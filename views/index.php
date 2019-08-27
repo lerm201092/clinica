@@ -177,7 +177,7 @@ include './include/banner.php';
 <div class="container">
     <div class="row">
         <div class="col-md-6 col-sm-12">
-        <iframe class="col-md-12 video_h" src="https://www.youtube.com/embed/1Dj3Gp7qPt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="col-sm-12 col-md-12 video_h" src="https://www.youtube.com/embed/1Dj3Gp7qPt4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <!-- <video src="https://www.youtube.com/watch?v=1Dj3Gp7qPt4" width="640" height="480" controls ></video> -->
         </div>
 
@@ -192,7 +192,7 @@ include './include/banner.php';
             </div><br>
             <div class="row">
                 <div class="col-md-12">
-                    <p class="text-justify">Este video muestra nuestras modernas instalaciones de 3 pisos con más de 8000 metros de construcción, están equipados con los más modernos equipos tecnológicos dispuestos para la atención de sus usuarios con más de 30 consultorios dotados con los últimos equipos para consulta en cada especialidad.  </p>
+                    <p class="text-justify">Este video muestra nuestras modernas instalaciones de 3 pisos con más de 8000 metros de construcción, están equipados con los más modernos equipos tecnológicos dispuestos para la atención de sus usuarios. La clínica además cuenta con más de 30 consultorios dotados con los últimos equipos para consulta en cada especialidad.</p>
                 </div>
             </div>
             
@@ -200,6 +200,36 @@ include './include/banner.php';
     </div>
 </div>
 
+<div class="container"><hr></div><br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12 col-md-6">
+            <img src="./src/images/page/somos.png" alt="" class="img-fluid img-thumbnail none_b bosconia">
+            <h3>Trabajamos por el bienestar de bosconia y la región</h3>
+            <p class="text-justify">Generamos empleo y desarrollo para la región teniendo como premisa la Responsabilidad Social Empresarial. Además de pagar impuestos que contribuyen al crecimiento de Bosconia, lo más importante es el bienestar que generamos para toda la región; pues sus habitantes carecían de centros hospitalarios de calidad y se veían obligados a desplazarse a otros municipios lejanos para lograr la atención médica requerida.</p>
+        </div>
+        <div class="col-sm-12 col-md-6">
+            <div class="row">
+                <div class="col-sm-12 col-md-4">
+                    <img src="./src/images/page/equipo.png" alt="" class="img-fluid img-thumbnail none_b bosconia_ico">
+                    <p class="text-center">Generamos mas de 280 empleos directos y 600 indirectos</p>
+                </div>
+
+                <div class="col-sm-12 col-md-4">
+                    <img src="./src/images/page/salud.png" alt="" class="img-fluid img-thumbnail none_b bosconia_ico">
+                    <p class="text-center">Atendemos con éxito mas de 2000 pacientes al mes</p>
+                </div>
+
+                <div class="col-sm-12 col-md-4">
+                    <img src="./src/images/page/promo.png" alt="" class="img-fluid img-thumbnail none_b bosconia_ico">
+                    <p class="text-center">Dinamizamos la economía de bosconia y la región</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
 <?php
-include './include/footer.php';
+include './include/footer.php'; 
 ?>

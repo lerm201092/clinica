@@ -83,7 +83,7 @@ include './include/header.php';?>
 </div>
 
 <?php
-include './include/footer.php';
+include './include/bosconia.php'; include './include/footer.php'; 
 ?>
 
 
